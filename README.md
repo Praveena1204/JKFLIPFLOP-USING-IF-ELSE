@@ -1,6 +1,6 @@
 ## NAME: A.PRAVEENA
 ## REG NO: 24006885
-# JKFLIPFLOP-USING-IF-ELSE
+# Experiment no.5: Implementation of JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
 
